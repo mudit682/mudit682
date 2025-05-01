@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Mudit Tiwari</h1>
-<h3 align="center">Aspiring Software Engineering student | Fullstack Developer |java| Data Structure and Algorithms | CS (AI/ML) Undergraduate student at IILM University</h3>
+<h3 align="center">Aspiring Software Engineering student | Fullstack Developer | java | Data Structure and Algorithms | CS (AI/ML) Undergraduate student at IILM University</h3>
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mudit682&label=Profile%20views&color=0e75b6&style=flat" alt="mudit682" />
