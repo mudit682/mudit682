@@ -52,18 +52,4 @@
 
 ---
 
-## 📊 GitHub Stats
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=mudit682&show_icons=true&theme=radical" alt="mudit682 stats" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mudit682&theme=radical" alt="mudit682 streak" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudit682&layout=compact&theme=radical" alt="mudit682 languages" />
-</p>
-
----
-
-## ⚡ Fun Fact
-
-> I completed both Arcade and Google Cloud courses from GDSC — not many did, but I did!
-
----
