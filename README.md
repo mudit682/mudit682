@@ -1,4 +1,4 @@
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Software+Engineer;Node.js+%7C+Express.js+%7C+MongoDB;Building+Scalable+REST+APIs;AI-Powered+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=24&pause=1000&center=true&vCenter=true&width=650&lines=Backend+Software+Engineer;AI-Powered+Applications" />
 </p>
